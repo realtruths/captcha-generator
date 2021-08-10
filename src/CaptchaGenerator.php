@@ -1,6 +1,4 @@
 <?php
-
-declare(strict_types=1);
 /**
  * CaptchaGenerator.php
  *
@@ -12,6 +10,7 @@ namespace RealTruths\Captcha\Generator;
 
 /**
  * Class CaptchaGenerator
+ * @package RealTruths\Captcha\Generator
  */
 class CaptchaGenerator
 {
