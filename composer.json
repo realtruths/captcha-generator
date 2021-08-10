@@ -1,0 +1,25 @@
+{
+    "name": "realtruths/captcha-generator",
+    "description": "图片验证码生成器",
+    "keywords": [
+        "captcha",
+        "验证码"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "realtruths",
+            "email": "realtruths@126.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "ext-gd": "*"
+    },
+    "minimum-stability" : "dev",
+    "autoload": {
+        "psr-4": {
+            "RealTruths\\Captcha\\Generator\\": "src/"
+        }
+    }
+}
