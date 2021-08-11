@@ -1,5 +1,10 @@
 ##### 图片验证码生成器
+
 > 适用于thinkphp、laravel、lumen、hyperf、easyswoole等框架
+
+##### 安装
+
+> composer require realtruths/captcha-generator
 
 ##### 使用
 
